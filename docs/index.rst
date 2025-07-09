@@ -1,6 +1,5 @@
 How to Update Garmin GPS? A Complete Guide
 ============================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents: 
